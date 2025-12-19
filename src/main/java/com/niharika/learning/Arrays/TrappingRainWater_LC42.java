@@ -1,4 +1,4 @@
-package com.niharika.learning.arrays;
+package com.niharika.learning.Arrays;
 
 /**
  * 42. Trapping Rain Water

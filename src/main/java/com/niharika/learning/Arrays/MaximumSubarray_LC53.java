@@ -1,4 +1,4 @@
-package com.niharika.learning.arrays;
+package com.niharika.learning.Arrays;
 
 /*
 LEETCODE PROBLEM 53: MAXIMUM SUBARRAY

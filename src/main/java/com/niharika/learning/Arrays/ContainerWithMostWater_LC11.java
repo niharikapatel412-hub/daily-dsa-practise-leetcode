@@ -1,4 +1,4 @@
-package com.niharika.learning.arrays;
+package com.niharika.learning.Arrays;
 
 /**
  * LeetCode 11: Container With Most Water
