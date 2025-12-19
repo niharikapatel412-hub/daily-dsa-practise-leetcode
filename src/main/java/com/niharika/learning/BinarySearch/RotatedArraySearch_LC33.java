@@ -1,4 +1,4 @@
-package com.niharika.learning.arrays;
+package com.niharika.learning.BinarySearch;
 
 public class RotatedArraySearch_LC33 {
     public static void main(String[] args) {
