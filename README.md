@@ -18,7 +18,7 @@ I’m committing **daily** to build consistency, improve problem-solving pattern
 - [ ] Product of Array Except Self
 - [x] Maximum Subarray ✅
 - [ ] Maximum Product Subarray
-- [ ] Find Minimum in Rotated Sorted Array
+- [x] Find Minimum in Rotated Sorted Array ✅
 - [x] Search in Rotated Sorted Array ✅
 - [ ] 3Sum
 - [x] Container With Most Water ✅
@@ -28,7 +28,7 @@ I’m committing **daily** to build consistency, improve problem-solving pattern
 - [ ] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
-- [ ] Missing Number
+- [x] Missing Number ✅
 - [ ] Reverse Bits
 
 ### Dynamic Programming (11)
@@ -76,7 +76,7 @@ I’m committing **daily** to build consistency, improve problem-solving pattern
 - [ ] Word Search
 
 ### Strings (10)
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters ✅
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 - [ ] Valid Anagram
