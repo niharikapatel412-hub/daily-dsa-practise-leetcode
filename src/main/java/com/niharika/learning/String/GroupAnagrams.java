@@ -1,4 +1,4 @@
-package com.niharika.learning.Arrays;
+package com.niharika.learning.String;
 
 import java.util.*;
 
